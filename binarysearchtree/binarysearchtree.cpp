@@ -47,4 +47,7 @@ public:
 		}
 	}
 
+	void search(string element, Node*& parent, Node*& currentNode){ //This function searches the cuurentNode of the specified Node current Node of its parent
+		
+	}
 };
