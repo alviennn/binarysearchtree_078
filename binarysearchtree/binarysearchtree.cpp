@@ -60,6 +60,10 @@ public:
 	}
 
 	void inorder(Node* ptr) {
+		if (ROOT == NULL) {
+			cout << "Tree is emprty" << endl;
+			return;
+		}
 		
 	}
 };
